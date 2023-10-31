@@ -1,0 +1,27 @@
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1824px;
+    margin-top: 30px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.listcont{
+    display: flex;
+}
+.listcont a{
+    color: black;
+}
+.list-1{
+    display: flex;
+    gap:32px;
+    margin-right: 48px;
+    font-family: Clash Display;
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding-top: 15px;
+}
